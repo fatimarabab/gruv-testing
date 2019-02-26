@@ -7,4 +7,4 @@ Gruv is an iOS app. Gruv is a Habit Tracker app in Swift and Xcode to track user
 
 I was responsible for testing and quality assurance using XCTest framework from Apple and also general Software Engineering. 
 
-These are a sample of tests coded(by me) for the Gruv team project. Tests include UI and unit testing.
+These are a sample of tests coded(by me) for the Gruv team project. Tests include UI testing.
