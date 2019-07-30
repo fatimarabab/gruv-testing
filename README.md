@@ -1,4 +1,4 @@
-# Swift-iOS-HabitTrackerApp-gruv
+# Habit Tracker iOS Swift App 'gruv' - Sample UITests written in Swift
 
 Gruv App - Fall 2018 Project
 
