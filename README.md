@@ -1,4 +1,4 @@
-# gruv-testing
+# Swift-iOS-HabitTrackerApp-gruv-testing
 
 
 Gruv App - Fall 2018 Project
